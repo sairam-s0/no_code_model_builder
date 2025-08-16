@@ -1,2 +1,4 @@
 # no_code_model_builder
-![Breathing Effect](assets/icons/ncml-logo.png)
+<p align="center">
+  <img src="assets/icons/ncml-logo.png" alt="NCML Logo" width="200"/>
+</p>
