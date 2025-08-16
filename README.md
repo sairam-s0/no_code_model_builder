@@ -1,2 +1,2 @@
 # no_code_model_builder
-![Breathing Effect](assets/breathing.gif)
+![Breathing Effect](assets/icons/ncml-logo.png)
